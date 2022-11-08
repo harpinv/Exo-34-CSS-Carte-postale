@@ -1,0 +1,135 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #E1E1E1;
+    font-family: Arial, sans-serif;
+}
+
+#text {
+    margin-top: 20px;
+}
+
+.tape1 {
+    background-color: white;
+    height: 500px;
+    width: 800px;
+    position: relative;
+    top: 100px;
+    left: 385px;
+    box-shadow: 8px 6px 40px 5px darkgray;
+}
+
+.tape2 {
+    background-color: white;
+    height: 200px;
+    width: 380px;
+    position: relative;
+    top: -250px;
+    left: 410px;
+    font-size: 20px;
+}
+
+.tape3 {
+    background-color: white;
+    height: 450px;
+    width: 10px;
+    position: relative;
+    top: -575px;
+    left: 835px;
+    border-right: 2px solid black;
+}
+
+.tape4 {
+    background-color: white;
+    height: 150px;
+    width: 110px;
+    position: relative;
+    top: -1025px;
+    left: 1040px;
+    border: 2px solid black;
+}
+
+.tape5 {
+    background-color: white;
+    height: 50px;
+    width: 285px;
+    position: relative;
+    top: -890px;
+    left: 865px;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+
+.tape6 {
+    background-color: white;
+    height: 50px;
+    width: 285px;
+    position: relative;
+    top: -840px;
+    left: 865px;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+
+.tape7 {
+    background-color: white;
+    height: 30px;
+    width: 150px;
+    position: relative;
+    top: -860px;
+    left: 845px;
+}
+
+.tape8 {
+    background-color: white;
+    height: 25px;
+    width: 20px;
+    position: relative;
+    top: -895px;
+    left: 866px;
+    border: 2px solid black;
+}
+
+.tape9 {
+    background-color: white;
+    height: 25px;
+    width: 20px;
+    position: relative;
+    top: -920px;
+    left: 891px;
+    border: 2px solid black;
+}
+
+.tape10 {
+    background-color: white;
+    height: 25px;
+    width: 20px;
+    position: relative;
+    top: -945px;
+    left: 916px;
+    border: 2px solid black;
+}
+
+.tape11 {
+    background-color: white;
+    height: 25px;
+    width: 20px;
+    position: relative;
+    top: -970px;
+    left: 941px;
+    border: 2px solid black;
+}
+
+.tape12 {
+    background-color: white;
+    height: 25px;
+    width: 20px;
+    position: relative;
+    top: -995px;
+    left: 966px;
+    border: 2px solid black;
+}
